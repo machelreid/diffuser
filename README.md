@@ -1,2 +1,2 @@
 # diffuser
-DiffusER: Discrete Diffusion via Edit-based Reconstruction (Reid, Neubig &amp; Hellendoorn, 2022)
+DiffusER: Discrete Diffusion via Edit-based Reconstruction (Reid, Hellendoorn &amp; Neubig, 2022)
